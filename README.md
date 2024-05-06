@@ -1,5 +1,5 @@
 # BackgroundServices
-Exemplo de usu background services Hangfire
+Exemplo de uso background services Hangfire
 
 Recursos necessários para executar a solução:
   - Visual Studio 2022
